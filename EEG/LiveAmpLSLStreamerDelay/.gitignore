@@ -1,0 +1,14 @@
+ui_*.h
+LiveAmp/.vs/
+LiveAmp/bin/
+LiveAmp/Debug/
+LiveAmp/Release/
+LiveAmp/Resources/
+LiveAmp/x64/
+LiveAmp/*.cfg
+build*
+*.dll
+*.exe
+*.aps
+!.gitignore
+!LiveAmpLib2/*/*/*.dll

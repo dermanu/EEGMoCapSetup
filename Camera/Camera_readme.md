@@ -1,0 +1,2 @@
+Install first the FLIR SDK (Spinnaker SDK). It has to be downloaded from FLIR as it is quite big. It gives you a GUI to access the camera streams and understand the different settings better. Those also can and should be set later in the python code upon inistialisation. The python code I made for a different project is in the folder ParaSpinVideoAcq. It records currently 6 cameras. We only need 2. 
+Besides setting one camera as slave and one as master (or maybe both as slave and Qualisys as master?). Most of the other settings are probably ok.

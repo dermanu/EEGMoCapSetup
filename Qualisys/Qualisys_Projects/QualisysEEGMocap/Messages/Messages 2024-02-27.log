@@ -1,0 +1,5 @@
+1	13:50:29	Realtime started	
+1	13:51:15	Disconnected	
+1	13:51:15	Error(s) when waiting for realtime frame. Double-click for more information	Error(s) when waiting for realtime frame:  001 - code 09 - camera 03 (192.168.254.18) : The camera has stopped communicating. 002 - code 09 - camera 06 (192.168.254.8) : The camera has stopped communicating. 003 - code 09 - camera 07 (192.168.254.5) : The camera has stopped communicating.
+1	14:03:56	Realtime started	
+1	14:45:21	Analog controller acquisition error. Double-click for more info.	Internal error: wrong state when calling GetRealtimeSample (was 1)

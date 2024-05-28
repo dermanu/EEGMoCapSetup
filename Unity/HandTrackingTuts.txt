@@ -1,0 +1,8 @@
+- https://developer.vive.com/resources/openxr/unity/tutorials/hand-tracking/ OG
+- https://developer.vive.com/resources/openxr/openxr-pcvr/tutorials/unity/how-integrate-hand-tracking-data-your-hand-model/ mangler litt
+- https://developer.vive.com/resources/openxr/openxr-mobile/tutorials/unity/hand-tracking/see-your-hands-xr/ mobile lol
+
+- https://hub.vive.com/storage/tracking/unity/setup.html#installation ny variant
+
+- https://www.youtube.com/watch?v=mJ3fygb9Aw0 ENDELIG EN SOM FUNKA KANSKJE
+
