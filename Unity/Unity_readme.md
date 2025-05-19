@@ -1,1 +1,0 @@
-I have first to find Mariannes Exergame, which we use as a basis. How to make an LSL client in Unity is described here: https://github.com/labstreaminglayer/LSL4Unity

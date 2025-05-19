@@ -5,6 +5,10 @@ To download, please click on the 'Latest release' link to the right for the late
 
 Please note that you may need to install the Microsoft C++ redistributable packages for Visual Studio 2012 ([here](https://support.microsoft.com/en-us/help/2977003/the-latest-supported-visual-c-downloads)) in order to run the executables.
 
+# Project-specific Changes
+**Attention:** We modified the LiveAmp streamer to delay stream start by a few seconds, allowing time for the Qualisys system to initialize and to start the recording in the LabRecorder, before the first trigger is send by the LiveAmp. The project-specific configuration can be found in `LiveAmp.cfg`.
+
+
 # Getting Started
 If you are new to using LSL, you might want to read the [Quick Start guide](https://labstreaminglayer.readthedocs.io/info/getting_started.html) on the LabStreamingLayer main repository. 
 
