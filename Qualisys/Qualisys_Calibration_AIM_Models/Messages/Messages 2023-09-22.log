@@ -1,0 +1,15 @@
+1	11:18:59	Realtime started	
+1	11:27:29	Calibration started	
+1	11:27:31	Calibration finished after 2.1349 seconds	
+1	11:27:31	File created	
+1	11:27:31	File saved as C:\Users\vizlab_stud\Documents\QualisysEEGMocap\Calibrations\20230922_112717.qca	
+1	11:27:57	File closed	
+1	11:28:01	Realtime started	
+1	11:41:46	File created	
+1	11:47:06	Rigid body: RightShoe added.	The new body definition was added both to the file and to the Project Options.
+1	11:47:07	Rigid bodies did not always match definition	When 6D data is calculated from the positions of markers, at least three of the points of a body must be present in a data frame to let QTM calculate the 6D position of the rigid body.  Even if three or more points are present in a frame, sometimes the 6D position is not calculated anyway, because the distances between points do not match the rigid body definition well enough.  This happened now: Body "RightShoe": in 128 of the 3600 frames where at least three points were present  To avoid this, either increase the "Bone length tolerance" parameter, improve the rigidity of the body or correct the definition of the body.
+1	11:47:26	Rigid body: LeftShoe added.	The new body definition was added both to the file and to the Project Options.
+1	11:47:26	Rigid bodies did not always match definition	When 6D data is calculated from the positions of markers, at least three of the points of a body must be present in a data frame to let QTM calculate the 6D position of the rigid body.  Even if three or more points are present in a frame, sometimes the 6D position is not calculated anyway, because the distances between points do not match the rigid body definition well enough.  This happened now: Body "RightShoe": in 128 of the 3600 frames where at least three points were present Body "LeftShoe": in 77 of the 3600 frames where at least three points were present  To avoid this, either increase the "Bone length tolerance" parameter, improve the rigidity of the body or correct the definition of the body.
+1	11:52:13	File closed	
+1	11:52:15	Realtime started	
+1	13:02:33	Disconnected	

@@ -1,0 +1,48 @@
+1	16:06:24	Realtime started	
+1	16:07:38	Disconnected	
+1	16:08:28	Realtime started	
+1	16:19:10	Disconnected	
+1	17:01:28	Realtime started	
+1	17:01:42	Disconnected	
+1	17:18:16	Realtime started	
+1	17:18:44	Disconnected	
+1	17:18:54	Realtime started	
+1	17:18:59	Disconnected	
+1	17:41:19	Realtime started	
+1	17:41:30	Disconnected	
+1	17:41:50	Realtime started	
+1	17:41:58	Disconnected	
+1	17:42:06	Error(s) when starting realtime. Double-click for more information	Error(s) when starting realtime:  001 - code 08 - camera 04 (192.168.254.7) : The camera did not reply during a(n) 'start measurement' operation. 002 - code 08 - camera 03 (192.168.254.17) : The camera did not reply during a(n) 'start measurement' operation. 003 - code 08 - camera 05 (192.168.254.9) : The camera did not reply during a(n) 'start measurement' operation. 004 - code 08 - camera 01 (192.168.254.8) : The camera did not reply during a(n) 'start measurement' operation. 005 - code 08 - camera 07 (192.168.254.16) : The camera did not reply during a(n) 'start measurement' operation. 006 - code 08 - camera 06 (192.168.254.5) : The camera did not reply during a(n) 'start measurement' operation. 007 - code 08 - camera 02 (192.168.254.6) : The camera did not reply during a(n) 'start measurement' operation.
+1	17:42:23	Realtime started	
+1	17:42:28	Disconnected	
+1	17:42:36	Error(s) when starting realtime. Double-click for more information	Error(s) when starting realtime:  001 - code 08 - camera 04 (192.168.254.7) : The camera did not reply during a(n) 'start measurement' operation. 002 - code 08 - camera 06 (192.168.254.5) : The camera did not reply during a(n) 'start measurement' operation. 003 - code 08 - camera 07 (192.168.254.16) : The camera did not reply during a(n) 'start measurement' operation. 004 - code 08 - camera 02 (192.168.254.6) : The camera did not reply during a(n) 'start measurement' operation. 005 - code 08 - camera 03 (192.168.254.17) : The camera did not reply during a(n) 'start measurement' operation. 006 - code 08 - camera 01 (192.168.254.8) : The camera did not reply during a(n) 'start measurement' operation. 007 - code 08 - camera 05 (192.168.254.9) : The camera did not reply during a(n) 'start measurement' operation.
+1	17:42:59	Realtime started	
+1	17:43:10	Disconnected	
+1	17:45:31	Realtime started	
+1	17:46:08	Disconnected	
+1	17:47:44	Realtime started	
+1	17:49:28	Disconnected	
+1	17:50:52	Realtime started	
+1	17:51:28	Disconnected	
+1	17:56:05	Realtime started	
+1	18:05:15	Disconnected	
+1	18:08:13	Realtime started	
+1	18:08:56	Disconnected	
+1	18:10:29	Realtime started	
+1	18:10:57	Disconnected	
+1	18:12:00	Realtime started	
+1	18:12:29	Disconnected	
+1	18:14:42	Realtime started	
+1	18:15:18	Disconnected	
+1	18:18:34	Realtime started	
+1	18:19:27	Disconnected	
+1	18:20:03	Realtime started	
+1	18:20:23	Disconnected	
+1	18:21:14	Realtime started	
+1	18:21:40	Disconnected	
+1	18:22:17	Realtime started	
+1	18:22:47	Disconnected	
+1	18:23:35	Realtime started	
+1	18:23:56	Disconnected	
+1	18:26:34	Realtime started	
+1	18:26:57	Disconnected	
