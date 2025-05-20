@@ -1,6 +1,6 @@
 # EEGMoCapSetup
 
-This repository contains all required software and configuration files to run the EEGMoCap study, integrating EEG, video, motion capture, and VR streams via LabStreamingLayer (LSL).
+This repository contains all required software and configuration files to run the [study](https://github.com/dermanu/EEGMoCapCKC), integrating EEG, video, motion capture, and VR streams via LabStreamingLayer (LSL).
 
 ---
 
@@ -62,5 +62,5 @@ This repository contains all required software and configuration files to run th
 ---
 
 **Maintainer**: Emanuel Lorenz  
-**Lab**: NTNU Vizlab / EEG-MoCap  
+**Lab**: NTNU Vizlab
 """
