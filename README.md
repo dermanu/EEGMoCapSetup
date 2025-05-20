@@ -48,7 +48,7 @@ This repository contains all required software and configuration files to run th
    - Edit the XML config in **Recorder/** to specify required streams and output path.  
    - Launch LabRecorder to capture all streams into an `.xdf` file.
 
-5. **VR Synchronization (Optional)**  
+5. **VR Software**  
    - Launch VR task to send event markers to LSL.
 
 ---
