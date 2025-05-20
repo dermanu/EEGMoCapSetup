@@ -63,4 +63,4 @@ This repository contains all required software and configuration files to run th
 
 **Maintainer**: Emanuel Lorenz  
 **Lab**: NTNU Vizlab
-"""
+
