@@ -1,6 +1,11 @@
 # EEGMoCapSetup
 
-This repository contains all required software and configuration files to run the [study](https://github.com/dermanu/EEGMoCapCKC), integrating EEG, video, motion capture, and VR streams via LabStreamingLayer (LSL).
+This repository contains all required software and configuration files to run the data acquisition needed for the analysis of corticokinematic coherence, in this [repo](https://github.com/dermanu/EEGMoCapCKC), integrating EEG, video, motion capture, and VR streams via LabStreamingLayer (LSL). The scripts were used in the publication: 
+
+Evaluating corticokinematic coherence using electroencephalography and human pose estimation
+Emanuel Alexander Lorenz, Xiaomeng Su and Nina Skjæret-Maroni
+Biomedical Physics & Engineering Express
+[DOI: 10.1088/2057-1976/ae27d5](https://iopscience.iop.org/article/10.1088/2057-1976/ae27d5)
 
 ---
 
