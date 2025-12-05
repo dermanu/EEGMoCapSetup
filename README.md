@@ -67,5 +67,5 @@ Biomedical Physics & Engineering Express
 ---
 
 **Maintainer**: Emanuel Lorenz  
-**Lab**: NTNU Vizlab
+**Lab**: [NTNU Vislab](https://www.ntnu.edu/idi/vislab)
 
